@@ -1,5 +1,5 @@
 # SF-DS-Project-3-EDA
-## Project: Using the data to build a model that predicts the rating of the hotel on Booking.com
+## Project: Booking.com reviewer score
 
 *Task*: using the data to build a model that predicts the rating of the hotel
 
@@ -97,5 +97,7 @@ In order to get correct submission file in Kaggle I did not delete full duplicat
     * average score (median value)
     * n_compound (NLTK)
     * day since review (fresh / old)
+
+(In earlier version of notebook I got MAPE value 12.53914. But this version is more interesting by feature engineering stage)
 
 :arrow_up:[to content](https://github.com/LiliyaKazykhanova/SF-DS-Project-3/blob/main/README.md#Content)
